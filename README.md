@@ -3,7 +3,7 @@
 A single player recreation of the classic game Pac-Man. The game was written in JavaScript, HTML, and CSS.
 
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 2022-05-30 211348](https://user-images.githubusercontent.com/98442340/171080645-85abc5e2-86d6-4436-96f6-863a13de9660.png)
 
